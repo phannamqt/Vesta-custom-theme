@@ -755,13 +755,13 @@ input[type="checkbox"] {
 }
 .l-profile__username {
   float: left;
-  color: #a4abad;
+  color: #000;
   font-weight: 700;
   padding: 10px 0 0 10px;
   margin-right: 12px;
 }
 .l-profile__username:hover {
-  color: #ffd62e;
+  color: #f79b44;
 }
 .l-profile__username:active {
   color: #f79b44;
@@ -770,15 +770,15 @@ input[type="checkbox"] {
 
 .l-profile__logout {
   float: left;
-  color: #fff;
+  color: #000;
 /*  margin-left: 40px; */
   padding: 10px 0 0 10px;
 }
 .l-profile__logout:hover {
-  color: #C0E60E;
+  color: #f79b44;
 }
 .l-profile__logout:active {
-  color: #ffd62e;
+  color: #f79b44;
 }
 .lang-cn .l-profile__logout {
   padding: 8px 5px;
